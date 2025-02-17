@@ -5,9 +5,7 @@ hello everyone , this is my github profile
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramneek3&label=Profile%20views&color=0e75b6&style=flat" alt="ramneek3" /> </p>
 
-- 🌱 I’m currently learning **react**
-
-- 
+- 🌱 I’m currently learning **react** 
 
 - 📫 How to reach me **singhramneek2005@gmail.com**
 
